@@ -70,7 +70,7 @@ __pycache__/
 venv/
 env/
 .venv/
-.multi-news-agent/
+multi-news-agent/
 
 # ============================
 # IDE / 편집기 관련

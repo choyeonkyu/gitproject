@@ -3,7 +3,7 @@
 ### 1. 로컬 프로젝트 폴더로 이동
 
 ```bash
-cd C:\Users\new\Desktop\python\multi-news-agent
+cd C:/Users/new/Desktop/python/multi-news-agent
 ```
 
 ---
